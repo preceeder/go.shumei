@@ -5,7 +5,7 @@ import (
 	mapset "github.com/deckarep/golang-set"
 	"github.com/duke-git/lancet/v2/cryptor"
 	"github.com/go-resty/resty/v2"
-	"github.com/preceeder/go/base"
+	"github.com/preceeder/go.base"
 	"log/slog"
 	"net/url"
 	"strings"

@@ -6,7 +6,7 @@ require (
 	github.com/deckarep/golang-set v1.8.0
 	github.com/duke-git/lancet/v2 v2.3.7
 	github.com/go-resty/resty/v2 v2.16.5
-	github.com/preceeder/go/base v1.0.10
+	github.com/preceeder/go.base v1.0.0
 )
 
 require golang.org/x/net v0.33.0 // indirect
